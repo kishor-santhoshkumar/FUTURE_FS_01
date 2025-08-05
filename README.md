@@ -20,7 +20,6 @@ It is built using modern web technologies with a focus on performance, accessibi
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (or React, if applicable)
-- **Deployment**: Vercel
 - **Version Control**: Git & GitHub
 
 ---
