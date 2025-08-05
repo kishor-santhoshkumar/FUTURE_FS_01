@@ -1,31 +1,29 @@
-# Personal portfolio website
+# Personal Portfolio Website
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A fully responsive personal portfolio website built and maintained by me to showcase my skills, projects, and experiences.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kishor-santhoshkumars-projects/v0-personal-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/cEEMkPBxm7F)
+---
 
-## Overview
+## 🧾 Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+This portfolio is designed to highlight:
+- My technical skills and interests
+- Selected projects with live demos and source code
+- Education and experience
+- Contact information and social links
 
-## Deployment
+It is built using modern web technologies with a focus on performance, accessibility, and responsive design.
 
-Your project is live at:
 
-**[https://vercel.com/kishor-santhoshkumars-projects/v0-personal-portfolio-website](https://vercel.com/kishor-santhoshkumars-projects/v0-personal-portfolio-website)**
+---
 
-## Build your app
+## 🛠️ Tech Stack
 
-Continue building your app on:
+- **Frontend**: HTML5, CSS3, JavaScript (or React, if applicable)
+- **Deployment**: Vercel
+- **Version Control**: Git & GitHub
 
-**[https://v0.dev/chat/projects/cEEMkPBxm7F](https://v0.dev/chat/projects/cEEMkPBxm7F)**
+---
 
-## How It Works
+## 📂 Folder Structure
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
-# FUTURE_FS_01
